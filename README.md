@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im an undergraduate physics student at Cardiff University who is interested in Machine learning and data anlysis 
+I am an undergraduate physics student at Cardiff University who is interested in Machine learning and data anlysis.
 
 
 ## 🌐 Socials:
